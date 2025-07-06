@@ -35,22 +35,34 @@ Loaded in the Streamlit app to classify user-uploaded CIFAR-10 style images.
 ## Classes
 
 ✈️ Airplane	
+
 🚗 Automobile	
+
 🐦 Bird	
+
 🐱 Cat	
+
 🦌 Deer	
+
 🐶 Dog	
+
 🐸 Frog	
+
 🐴 Horse	
+
 🚢 Ship	
+
 🚚 Truck
 
 ## 📦 Requirements
 Dependencies (also in requirements.txt):
 
 pip install tensorflow
+
 pip install opencv-python
+
 pip install Pillow
+
 pip install streamlit
 
 ## App output
